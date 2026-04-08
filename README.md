@@ -448,7 +448,6 @@ Start-ScheduledTask -TaskName "WireGuard-Failsafe"
 ```
 C:\Users\Administrator\Desktop\
 │
-├── wireguard-failsafe.ps1      # Script failsafe utama (harus ada)
 ├── wg-failsafe-task.ps1        # Script pembuat task
 └── wg-cancel-task.ps1          # Script pembatal task
 ```
